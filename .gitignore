@@ -1,0 +1,6 @@
+# Arquivos referentes da pasta node modules serão ignorados
+GetAPet/backend/node_modules
+GetAPet/frontend/node_modules
+GetAPet/frontend/.env.local
+Projeto 1/node_modules
+Toughts/node_modules
